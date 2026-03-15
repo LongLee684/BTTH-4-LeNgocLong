@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\bin\Debug\net8.0\ProductService.ApiDefinition.deps.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\bin\Debug\net8.0\ProductService.ApiDefinition.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\bin\Debug\net8.0\ProductService.ApiDefinition.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\obj\Debug\net8.0\ProductService.ApiDefinition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\obj\Debug\net8.0\ProductService.ApiDefinition.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\obj\Debug\net8.0\ProductService.ApiDefinition.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\obj\Debug\net8.0\ProductService.ApiDefinition.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\obj\Debug\net8.0\ProductService.ApiDefinition.sourcelink.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\obj\Debug\net8.0\ProductService.ApiDefinition.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\obj\Debug\net8.0\refint\ProductService.ApiDefinition.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\obj\Debug\net8.0\ProductService.ApiDefinition.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.ApiDefinition\obj\Debug\net8.0\ref\ProductService.ApiDefinition.dll

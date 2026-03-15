@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\bin\Debug\net8.0\PaymentService.Implementation.deps.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\bin\Debug\net8.0\PaymentService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\bin\Debug\net8.0\PaymentService.Implementation.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\obj\Debug\net8.0\PaymentService.Implementation.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\obj\Debug\net8.0\PaymentService.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\obj\Debug\net8.0\PaymentService.Implementation.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\obj\Debug\net8.0\PaymentService.Implementation.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\obj\Debug\net8.0\PaymentService.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\obj\Debug\net8.0\PaymentService.Implementation.sourcelink.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\obj\Debug\net8.0\PaymentService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\obj\Debug\net8.0\refint\PaymentService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\obj\Debug\net8.0\PaymentService.Implementation.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.Implementation\obj\Debug\net8.0\ref\PaymentService.Implementation.dll

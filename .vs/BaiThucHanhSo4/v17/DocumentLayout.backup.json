@@ -1,0 +1,509 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF237C0-E12C-4043-8B8E-AF9439BE85A9}|ProductService.Implementation\\ProductService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\productservice.implementation\\productservice.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAF237C0-E12C-4043-8B8E-AF9439BE85A9}|ProductService.Implementation\\ProductService.Implementation.csproj|solutionrelative:productservice.implementation\\productservice.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC63DD6-BBCD-4646-9012-AA1DB9E881A9}|PricingService.Implementation\\PricingService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\pricingservice.implementation\\pricingservice.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EC63DD6-BBCD-4646-9012-AA1DB9E881A9}|PricingService.Implementation\\PricingService.Implementation.csproj|solutionrelative:pricingservice.implementation\\pricingservice.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E88CF-65A5-4374-BA08-3D3C16019415}|PolicyService.Implementation\\PolicyService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\policyservice.implementation\\policyservice.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D37E88CF-65A5-4374-BA08-3D3C16019415}|PolicyService.Implementation\\PolicyService.Implementation.csproj|solutionrelative:policyservice.implementation\\policyservice.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CEEE98-41E2-4834-BB1F-004CF2DC1B06}|PaymentService.Implementation\\PaymentService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\paymentservice.implementation\\paymentservice.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96CEEE98-41E2-4834-BB1F-004CF2DC1B06}|PaymentService.Implementation\\PaymentService.Implementation.csproj|solutionrelative:paymentservice.implementation\\paymentservice.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0B4D5D-4183-4101-9061-FD3A727081C4}|AuthService.Implementation\\AuthService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\authservice.implementation\\authservice.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A0B4D5D-4183-4101-9061-FD3A727081C4}|AuthService.Implementation\\AuthService.Implementation.csproj|solutionrelative:authservice.implementation\\authservice.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CEEE98-41E2-4834-BB1F-004CF2DC1B06}|PaymentService.Implementation\\PaymentService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\paymentservice.implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CEEE98-41E2-4834-BB1F-004CF2DC1B06}|PaymentService.Implementation\\PaymentService.Implementation.csproj|solutionrelative:paymentservice.implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF237C0-E12C-4043-8B8E-AF9439BE85A9}|ProductService.Implementation\\ProductService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\productservice.implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF237C0-E12C-4043-8B8E-AF9439BE85A9}|ProductService.Implementation\\ProductService.Implementation.csproj|solutionrelative:productservice.implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC63DD6-BBCD-4646-9012-AA1DB9E881A9}|PricingService.Implementation\\PricingService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\pricingservice.implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC63DD6-BBCD-4646-9012-AA1DB9E881A9}|PricingService.Implementation\\PricingService.Implementation.csproj|solutionrelative:pricingservice.implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0B4D5D-4183-4101-9061-FD3A727081C4}|AuthService.Implementation\\AuthService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\authservice.implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0B4D5D-4183-4101-9061-FD3A727081C4}|AuthService.Implementation\\AuthService.Implementation.csproj|solutionrelative:authservice.implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E88CF-65A5-4374-BA08-3D3C16019415}|PolicyService.Implementation\\PolicyService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\policyservice.implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37E88CF-65A5-4374-BA08-3D3C16019415}|PolicyService.Implementation\\PolicyService.Implementation.csproj|solutionrelative:policyservice.implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9244E18-8712-4E27-A446-BA85A2DAAC83}|ProductService.Tests\\ProductService.Tests.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\productservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9244E18-8712-4E27-A446-BA85A2DAAC83}|ProductService.Tests\\ProductService.Tests.csproj|solutionrelative:productservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF237C0-E12C-4043-8B8E-AF9439BE85A9}|ProductService.Implementation\\ProductService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\productservice.implementation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF237C0-E12C-4043-8B8E-AF9439BE85A9}|ProductService.Implementation\\ProductService.Implementation.csproj|solutionrelative:productservice.implementation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63ECE70-684A-4A1B-A4EB-2981D77C4412}|PaymentService.Tests\\PaymentService.Tests.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\paymentservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63ECE70-684A-4A1B-A4EB-2981D77C4412}|PaymentService.Tests\\PaymentService.Tests.csproj|solutionrelative:paymentservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CEEE98-41E2-4834-BB1F-004CF2DC1B06}|PaymentService.Implementation\\PaymentService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\paymentservice.implementation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CEEE98-41E2-4834-BB1F-004CF2DC1B06}|PaymentService.Implementation\\PaymentService.Implementation.csproj|solutionrelative:paymentservice.implementation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640531E-A058-4497-B1CA-223E37C1E85B}|PricingService.Tests\\PricingService.Tests.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\pricingservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640531E-A058-4497-B1CA-223E37C1E85B}|PricingService.Tests\\PricingService.Tests.csproj|solutionrelative:pricingservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC63DD6-BBCD-4646-9012-AA1DB9E881A9}|PricingService.Implementation\\PricingService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\pricingservice.implementation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC63DD6-BBCD-4646-9012-AA1DB9E881A9}|PricingService.Implementation\\PricingService.Implementation.csproj|solutionrelative:pricingservice.implementation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E24384D-9EA1-4ADE-B239-8B1992631006}|AuthService.Tests\\AuthService.Tests.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\authservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E24384D-9EA1-4ADE-B239-8B1992631006}|AuthService.Tests\\AuthService.Tests.csproj|solutionrelative:authservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0B4D5D-4183-4101-9061-FD3A727081C4}|AuthService.Implementation\\AuthService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\authservice.implementation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0B4D5D-4183-4101-9061-FD3A727081C4}|AuthService.Implementation\\AuthService.Implementation.csproj|solutionrelative:authservice.implementation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF405EA-8080-4526-926D-486E41C6F8C1}|PolicyService.Tests\\PolicyService.Tests.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\policyservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF405EA-8080-4526-926D-486E41C6F8C1}|PolicyService.Tests\\PolicyService.Tests.csproj|solutionrelative:policyservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37E88CF-65A5-4374-BA08-3D3C16019415}|PolicyService.Implementation\\PolicyService.Implementation.csproj|c:\\users\\asus\\source\\repos\\baithuchanhso4\\policyservice.implementation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37E88CF-65A5-4374-BA08-3D3C16019415}|PolicyService.Implementation\\PolicyService.Implementation.csproj|solutionrelative:policyservice.implementation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.ApiDefinition\\PolicyService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PolicyService.ApiDefinition\\PolicyService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.ApiDefinition\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PolicyService.ApiDefinition\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.ApiDefinition\\PricingService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PricingService.ApiDefinition\\PricingService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.ApiDefinition\\PaymentService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PaymentService.ApiDefinition\\PaymentService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.ApiDefinition\\AuthService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthService.ApiDefinition\\AuthService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.ApiDefinition\\ProductService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductService.ApiDefinition\\ProductService.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.ApiDefinition\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PaymentService.ApiDefinition\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.ApiDefinition\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductService.ApiDefinition\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.ApiDefinition\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PricingService.ApiDefinition\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.ApiDefinition\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthService.ApiDefinition\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.Implementation.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.Implementation\\ProductService.Implementation.csproj",
+              "RelativeDocumentMoniker": "ProductService.Implementation\\ProductService.Implementation.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.Implementation\\ProductService.Implementation.csproj",
+              "RelativeToolTip": "ProductService.Implementation\\ProductService.Implementation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T02:54:19.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PricingService.Implementation.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.Implementation\\PricingService.Implementation.csproj",
+              "RelativeDocumentMoniker": "PricingService.Implementation\\PricingService.Implementation.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.Implementation\\PricingService.Implementation.csproj",
+              "RelativeToolTip": "PricingService.Implementation\\PricingService.Implementation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T02:54:15.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolicyService.Implementation.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.Implementation\\PolicyService.Implementation.csproj",
+              "RelativeDocumentMoniker": "PolicyService.Implementation\\PolicyService.Implementation.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.Implementation\\PolicyService.Implementation.csproj",
+              "RelativeToolTip": "PolicyService.Implementation\\PolicyService.Implementation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T02:53:15.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PricingService.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.ApiDefinition\\PricingService.Api.csproj",
+              "RelativeDocumentMoniker": "PricingService.ApiDefinition\\PricingService.Api.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.ApiDefinition\\PricingService.Api.csproj",
+              "RelativeToolTip": "PricingService.ApiDefinition\\PricingService.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T09:31:14.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentService.Implementation.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.Implementation\\PaymentService.Implementation.csproj",
+              "RelativeDocumentMoniker": "PaymentService.Implementation\\PaymentService.Implementation.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.Implementation\\PaymentService.Implementation.csproj",
+              "RelativeToolTip": "PaymentService.Implementation\\PaymentService.Implementation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T02:54:04.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentService.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.ApiDefinition\\PaymentService.Api.csproj",
+              "RelativeDocumentMoniker": "PaymentService.ApiDefinition\\PaymentService.Api.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.ApiDefinition\\PaymentService.Api.csproj",
+              "RelativeToolTip": "PaymentService.ApiDefinition\\PaymentService.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T09:30:36.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.Implementation.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.Implementation\\AuthService.Implementation.csproj",
+              "RelativeDocumentMoniker": "AuthService.Implementation\\AuthService.Implementation.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.Implementation\\AuthService.Implementation.csproj",
+              "RelativeToolTip": "AuthService.Implementation\\AuthService.Implementation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T08:03:16.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthService.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.ApiDefinition\\AuthService.Api.csproj",
+              "RelativeDocumentMoniker": "AuthService.ApiDefinition\\AuthService.Api.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.ApiDefinition\\AuthService.Api.csproj",
+              "RelativeToolTip": "AuthService.ApiDefinition\\AuthService.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T09:30:10.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductService.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.ApiDefinition\\ProductService.Api.csproj",
+              "RelativeDocumentMoniker": "ProductService.ApiDefinition\\ProductService.Api.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.ApiDefinition\\ProductService.Api.csproj",
+              "RelativeToolTip": "ProductService.ApiDefinition\\ProductService.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T09:31:27.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.ApiDefinition\\Class1.cs",
+              "RelativeDocumentMoniker": "PaymentService.ApiDefinition\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.ApiDefinition\\Class1.cs",
+              "RelativeToolTip": "PaymentService.ApiDefinition\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:55:44.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.Implementation\\Startup.cs",
+              "RelativeDocumentMoniker": "PaymentService.Implementation\\Startup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.Implementation\\Startup.cs",
+              "RelativeToolTip": "PaymentService.Implementation\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:02:21.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PolicyService.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.ApiDefinition\\PolicyService.Api.csproj",
+              "RelativeDocumentMoniker": "PolicyService.ApiDefinition\\PolicyService.Api.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.ApiDefinition\\PolicyService.Api.csproj",
+              "RelativeToolTip": "PolicyService.ApiDefinition\\PolicyService.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T02:47:54.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.ApiDefinition\\Class1.cs",
+              "RelativeDocumentMoniker": "PolicyService.ApiDefinition\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.ApiDefinition\\Class1.cs",
+              "RelativeToolTip": "PolicyService.ApiDefinition\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:34:26.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.Implementation\\Startup.cs",
+              "RelativeDocumentMoniker": "ProductService.Implementation\\Startup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.Implementation\\Startup.cs",
+              "RelativeToolTip": "ProductService.Implementation\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:07:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.Implementation\\Startup.cs",
+              "RelativeDocumentMoniker": "PricingService.Implementation\\Startup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.Implementation\\Startup.cs",
+              "RelativeToolTip": "PricingService.Implementation\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:06:17.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.Implementation\\Startup.cs",
+              "RelativeDocumentMoniker": "AuthService.Implementation\\Startup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.Implementation\\Startup.cs",
+              "RelativeToolTip": "AuthService.Implementation\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:03:28.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.Implementation\\Startup.cs",
+              "RelativeDocumentMoniker": "PolicyService.Implementation\\Startup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.Implementation\\Startup.cs",
+              "RelativeToolTip": "PolicyService.Implementation\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:01:42.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ProductService.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ProductService.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:57:54.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.Implementation\\Class1.cs",
+              "RelativeDocumentMoniker": "ProductService.Implementation\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.Implementation\\Class1.cs",
+              "RelativeToolTip": "ProductService.Implementation\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:57:34.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.ApiDefinition\\Class1.cs",
+              "RelativeDocumentMoniker": "ProductService.ApiDefinition\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\ProductService.ApiDefinition\\Class1.cs",
+              "RelativeToolTip": "ProductService.ApiDefinition\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:57:08.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PaymentService.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "PaymentService.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:56:30.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.Implementation\\Class1.cs",
+              "RelativeDocumentMoniker": "PaymentService.Implementation\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PaymentService.Implementation\\Class1.cs",
+              "RelativeToolTip": "PaymentService.Implementation\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:56:11.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PricingService.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "PricingService.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:55:03.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.Implementation\\Class1.cs",
+              "RelativeDocumentMoniker": "PricingService.Implementation\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.Implementation\\Class1.cs",
+              "RelativeToolTip": "PricingService.Implementation\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:54:02.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.ApiDefinition\\Class1.cs",
+              "RelativeDocumentMoniker": "PricingService.ApiDefinition\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PricingService.ApiDefinition\\Class1.cs",
+              "RelativeToolTip": "PricingService.ApiDefinition\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:53:43.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AuthService.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AuthService.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:52:53.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.Implementation\\Class1.cs",
+              "RelativeDocumentMoniker": "AuthService.Implementation\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.Implementation\\Class1.cs",
+              "RelativeToolTip": "AuthService.Implementation\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:52:01.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.ApiDefinition\\Class1.cs",
+              "RelativeDocumentMoniker": "AuthService.ApiDefinition\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\AuthService.ApiDefinition\\Class1.cs",
+              "RelativeToolTip": "AuthService.ApiDefinition\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:51:31.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PolicyService.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "PolicyService.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:36:17.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.Implementation\\Class1.cs",
+              "RelativeDocumentMoniker": "PolicyService.Implementation\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BaiThucHanhSo4\\PolicyService.Implementation\\Class1.cs",
+              "RelativeToolTip": "PolicyService.Implementation\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:35:22.626Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\bin\Debug\net8.0\PolicyService.Api.deps.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\bin\Debug\net8.0\PolicyService.Api.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\bin\Debug\net8.0\PolicyService.Api.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\obj\Debug\net8.0\PolicyService.Api.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\obj\Debug\net8.0\PolicyService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\obj\Debug\net8.0\PolicyService.Api.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\obj\Debug\net8.0\PolicyService.Api.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\obj\Debug\net8.0\PolicyService.Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\obj\Debug\net8.0\PolicyService.Api.sourcelink.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\obj\Debug\net8.0\PolicyService.Api.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\obj\Debug\net8.0\refint\PolicyService.Api.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\obj\Debug\net8.0\PolicyService.Api.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PolicyService.ApiDefinition\obj\Debug\net8.0\ref\PolicyService.Api.dll

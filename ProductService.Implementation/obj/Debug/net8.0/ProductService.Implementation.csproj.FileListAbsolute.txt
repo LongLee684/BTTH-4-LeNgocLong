@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\bin\Debug\net8.0\ProductService.Implementation.deps.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\bin\Debug\net8.0\ProductService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\bin\Debug\net8.0\ProductService.Implementation.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\obj\Debug\net8.0\ProductService.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\obj\Debug\net8.0\ProductService.Implementation.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\obj\Debug\net8.0\ProductService.Implementation.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\obj\Debug\net8.0\ProductService.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\obj\Debug\net8.0\ProductService.Implementation.sourcelink.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\obj\Debug\net8.0\ProductService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\obj\Debug\net8.0\refint\ProductService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\obj\Debug\net8.0\ProductService.Implementation.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\obj\Debug\net8.0\ref\ProductService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\ProductService.Implementation\obj\Debug\net8.0\ProductService.Implementation.csproj.AssemblyReference.cache

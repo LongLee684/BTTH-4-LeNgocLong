@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+	  <RootNamespace>PolicyService.Api</RootNamespace>
+	  <!-- Thêm dòng này -->
+	  <AssemblyName>PolicyService.Api</AssemblyName>
+	  <!-- Thêm dòng này -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\bin\Debug\net8.0\PricingService.Implementation.deps.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\bin\Debug\net8.0\PricingService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\bin\Debug\net8.0\PricingService.Implementation.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\obj\Debug\net8.0\PricingService.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\obj\Debug\net8.0\PricingService.Implementation.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\obj\Debug\net8.0\PricingService.Implementation.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\obj\Debug\net8.0\PricingService.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\obj\Debug\net8.0\PricingService.Implementation.sourcelink.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\obj\Debug\net8.0\PricingService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\obj\Debug\net8.0\refint\PricingService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\obj\Debug\net8.0\PricingService.Implementation.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\obj\Debug\net8.0\ref\PricingService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PricingService.Implementation\obj\Debug\net8.0\PricingService.Implementation.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\bin\Debug\net8.0\PolicyService.Api.deps.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\bin\Debug\net8.0\PolicyService.Api.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\bin\Debug\net8.0\PolicyService.Api.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\obj\Debug\net8.0\PaymentService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\obj\Debug\net8.0\PaymentService.Api.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\obj\Debug\net8.0\PaymentService.Api.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\obj\Debug\net8.0\PaymentService.Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\obj\Debug\net8.0\PaymentService.Api.sourcelink.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\obj\Debug\net8.0\PolicyService.Api.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\obj\Debug\net8.0\refint\PolicyService.Api.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\obj\Debug\net8.0\PolicyService.Api.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\PaymentService.ApiDefinition\obj\Debug\net8.0\ref\PolicyService.Api.dll

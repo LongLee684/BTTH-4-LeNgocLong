@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\bin\Debug\net8.0\AuthService.Implementation.deps.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\bin\Debug\net8.0\AuthService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\bin\Debug\net8.0\AuthService.Implementation.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\obj\Debug\net8.0\AuthService.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\obj\Debug\net8.0\AuthService.Implementation.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\obj\Debug\net8.0\AuthService.Implementation.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\obj\Debug\net8.0\AuthService.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\obj\Debug\net8.0\AuthService.Implementation.sourcelink.json
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\obj\Debug\net8.0\AuthService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\obj\Debug\net8.0\refint\AuthService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\obj\Debug\net8.0\AuthService.Implementation.pdb
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\obj\Debug\net8.0\ref\AuthService.Implementation.dll
+C:\Users\ASUS\source\repos\BaiThucHanhSo4\AuthService.Implementation\obj\Debug\net8.0\AuthService.Implementation.csproj.AssemblyReference.cache
